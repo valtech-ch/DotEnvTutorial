@@ -13,3 +13,8 @@ Two things we should never share publicly...
 - our API key
 (${DATABASE_USER} and ${SPECIAL_API_KEY} respectively)
 `)
+
+// Set default values for an environment variable
+const PORT = process.env.PORT || 3000
+
+console.log(`If this were a server, it'd be listening on port ${PORT}`)
