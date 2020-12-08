@@ -1,0 +1,22 @@
+{
+  "name": "dotenvtutorial",
+  "version": "1.0.0",
+  "description": "Code sample for a tutorial on using DotEnv files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valtech-ch/DotEnvTutorial.git"
+  },
+  "author": "Jason Wilson",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/valtech-ch/DotEnvTutorial/issues"
+  },
+  "homepage": "https://github.com/valtech-ch/DotEnvTutorial#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
